@@ -1,6 +1,6 @@
 # SonicBreathing
 This repository contains Google Drive-links to a Max MSP application for Windows and MacOS and experimental data from the study   
-  [Van Kerrebroeck B., Maes PJ., 2020, Musical Sonification of Breathing Patterns to Reduce Stress during the COVID-19 pandemic]
+  [Van Kerrebroeck B., Maes PJ., 2020, A Breathing Sonification System to Reduce Stress during the COVID-19 Pandemic]
   
 - MacOS: https://drive.google.com/file/d/1mCGNgTzYYqB5C31ryBHpY1OTDf-ZkW0H/view?usp=sharing
 - Windows: https://drive.google.com/file/d/1plYJoof5MfVGKLdi-yE9vttX7X05yC49/view?usp=sharing
@@ -18,11 +18,19 @@ A typical session would look like this:
 Otherwise, click on 'Audio settings' to select the proper audio output
 4. Select a session:  
       A = Noise sonification  
-      B = Binaural soundscape  
+      B = Nature environmental sounds   
       C = Musical phrase  
 5. Press start
 6. Indicate the start of an inhalation with your left key, the start of an exhalation by pressing the right key
 7. Relax!
+
+### Sounds ###
+Sounds for the "nature environmental sounds" session were downloaded from the Freesound database (https://freesound.org/), cut, mixed and binaurally rendered using the ICST ambisonic externals for MaxMSP. The following sounds were used:
+- Autumn wind and dry leaves.wav (https://freesound.org/people/Stek59/sounds/457318/)
+- Spring Birds Loop with Low-Cut (New Jersey) (https://freesound.org/people/hargissssound/sounds/345852/)
+- Wind Chimes, Teign Gorge near Castle Drogo - Olympos, Gregorian + Pluto - excerpt (https://freesound.org/people/Philip%20Goddard/sounds/169865/)
+- gentle soft rain night.WAV (https://freesound.org/people/mshahen/sounds/242894/)
+Sounds for the noise sonification and musical phrase were custom-made using MaxMSP and Ableton.
 
 ### (For MacOS users): ###
 FileVault prevents the storing of local .txt-files of apps from an unidentified developer. The error is non-blocking for the apps other functions but if you want to prevent the error and store .txt files of your session, please follow these steps:
