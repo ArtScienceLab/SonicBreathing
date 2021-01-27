@@ -30,6 +30,7 @@ Sounds for the "nature environmental sounds" session were downloaded from the Fr
 - Spring Birds Loop with Low-Cut (New Jersey) (https://freesound.org/people/hargissssound/sounds/345852/)
 - Wind Chimes, Teign Gorge near Castle Drogo - Olympos, Gregorian + Pluto - excerpt (https://freesound.org/people/Philip%20Goddard/sounds/169865/)
 - gentle soft rain night.WAV (https://freesound.org/people/mshahen/sounds/242894/)
+
 Sounds for the noise sonification and musical phrase were custom-made using MaxMSP and Ableton.
 
 ### (For MacOS users): ###
